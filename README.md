@@ -1,6 +1,4 @@
 # Pokedex
-Prueba técnica designada a Ferney Perea Cuesta
-
 Clonar Repositorio
 
 ```git clone https://github.com/PruebasTecnicasMV/Pokedex.git```
